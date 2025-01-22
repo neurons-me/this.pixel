@@ -1,6 +1,6 @@
 {
     "name": "this.pixel",
-    "version": "3.4.92",
+    "version": "3.4.93",
     "description": "Pixel functionalities for neurons.me",
     "main": "index.js",
     "scripts": {
@@ -11,19 +11,15 @@
         "image",
         "input"
     ],
-    "dependencies": {
-   
-    },
-    "devDependencies": {
-      
-    },
+    "dependencies": {},
+    "devDependencies": {},
     "repository": {
         "type": "git",
         "url": "https://github.com/neurons-me/Pixels.git"
     },
     "homepage": "https://www.npmjs.com/package/this.pixel",
     "docs": "https://suiGn.github.io/Pixels",
-    "type":"module",
+    "type": "module",
     "author": "suiGn",
     "license": "MIT",
     "repoType": "NPM Package",
